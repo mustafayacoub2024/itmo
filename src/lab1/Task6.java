@@ -12,10 +12,8 @@ public class Task6 {
     }
 
     public static void main(String[] args) {
-
-resultIf(11);
-resultIf(10);
-resultIf(1000);
-
+        resultIf(11);
+        resultIf(10);
+        resultIf(1000);
     }
 }
